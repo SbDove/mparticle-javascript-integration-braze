@@ -2,6 +2,9 @@
 
 --
 
+## 4.2.1 - 2024-10-24
+-   fix: Declare reportEvent where previously undeclared [#55](https://github.com/mparticle-integrations/mparticle-javascript-integration-braze/pull/55)
+
 ## 4.2.0 - 2024-10-24
 
 -   fix: Report purchase events to mParticle when bundling ecommerce data [#50](https://github.com/mparticle-integrations/mparticle-javascript-integration-braze/pull/50)
